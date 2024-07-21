@@ -22,14 +22,17 @@ Make sure you have the following software installed on your computer:
 
 1. **Clone the repository**:
    Open your terminal and run the following command to clone the repository:
+   
    ```sh
    git clone https://github.com/Rogith01/Degree-Coverter.git
    
 2. **Navigate to the project directory**:
+   
    ```sh
    cd Degree-Converter
    
 3. **Open the project in VS Code**:
+   
    ```sh
    code .
 
